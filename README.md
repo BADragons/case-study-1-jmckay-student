@@ -14,4 +14,4 @@ Some elements I could add could be something like this:
   Have a little checkout counter thing, where people review what's in their "basket" (I might even call it a portfolio, or something along the lines of that)
   Have a profile or autobiography thing explaining who I am and what I'm trying to accomplish.
 We will be using Git and GitHub, most likely.
-I was thinking something like noblesarts.com, or something else like that.
+I was thinking something like noblesarts.com, noblesarthub.com, or something else like that.
