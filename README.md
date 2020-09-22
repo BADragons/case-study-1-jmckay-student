@@ -1,4 +1,5 @@
 # WD-CaseStudy
+Case Study 1
 
 I will be trying to make it a commercial website.
   I will be using this website for my art business that I’m trying to create. Hopefully it will allow people to commission (request) art in different sizes of paper (letter (8.5x11), sketchbook, poster (24x36), and anywhere in between). I want to try and get people art they want at a fairly reasonable price.
@@ -11,6 +12,7 @@ My goals for this website are:
 
 Some elements I could add could be something like this:
   A place for customer satisfaction/dissatisfaction reports (I don't know for sure about the dissatisfaction reports, but if I do that, it would help me to know what I could do better, like a rating thing)
+  
   Place samples of my art on there, or a little ad about what I do.
   Give helpful tips about where to go, what to do, or even on how the viewer can draw better.
   Have a little checkout counter thing, where people review what's in their "basket" (I might even call it a portfolio, or something along the lines of that)
@@ -19,3 +21,14 @@ Some elements I could add could be something like this:
 We will be using the VisualStudio software.
 
 I'm probably going to use something like noblesarts.com, noblesarthub.com, or something else like that.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Case Study 2
+
+Add a last updated section (maybe at the bottom, or maybe at the top so people see it), add a date (at the top).
+
+Social media
+
+Add a chat section
+
