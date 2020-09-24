@@ -28,7 +28,16 @@ Case Study 2
 
 Add a last updated section (maybe at the bottom, or maybe at the top so people see it), add a date (at the top).
 
-Social media
+I could use social media, like Facebook, Discord, or Instagram to promote my page.
 
-Add a chat section
+I could add a chat section, or maybe a place where new artists could put up their art.
 
+Maybe "The Art is Where It's At". I could use that to display that no matter what the artist thinks, if someone thinks it's alright, it's alright.
+
+I could use color to describe an atmosphere (calm, or just buy it all), and maybe in an art demo, use red lines to signal what not to do, and gray to signal what to do.
+
+Dense:
+Art would be fun to turn into a website, I think. I'd be able to translate my work into enjoyment for others. I would also love to host art lessons to get people drawing, or just get them better at art. And, as a bonus, it might give me a chance to earn a little bit of money.
+I plan on making my website an environment of creativity, and hopefully inspiration. I want to be able to give people a reason and means to get better at art. I also want to be able to provide an opportunity to get people half decent art that they want at a reasonable price. 
+
+Chunked:
