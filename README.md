@@ -30,7 +30,7 @@ Case Study 2
 
   I could use social media, like Facebook, Discord, Gmail, or Instagram to promote my page.
 
-  I could add a chat section, or maybe a place where new artists could put up their art.
+  I could add a chat section, or maybe a place where new artists could put up their art and ask for advice.
 
   Maybe "The Art is Where It's At". I could use that to display that no matter what the artist thinks, if someone thinks it's alright, it's alright.
 
@@ -48,3 +48,4 @@ Chunked:
 
   I'll make it fit on either wide or tall screens (mobile or computer), and to swith between the two by trying to place things in easily accessible places on mobile or PC. I'm going to shove the same amount of work into each part of my website, focusing equaly on details, major titles/pictures, and the central "hub" of the website. I'll try my darndest to make all the content fit in its place or in its folder, whether it be on PC/Desktop or mobile devices like tablets, smartphones, ipads, etc.
   
+  I could make it e3asy to use, efficient, and simple. If it was simple, it would be easier to understand, and thus be easier to use.
