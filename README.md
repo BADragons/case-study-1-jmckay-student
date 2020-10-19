@@ -103,4 +103,24 @@ And again, we would have subpages, branching from those "main" pages.
             Rating
   d
   
-  E) I think that a mix of hierarchical and webbed is what I'm going to use. I'm going to have a home page, pages branching off from that, and pages branching off of the subpages. I'm also probably going to make all of the subpages and sub-subpages and sub-sub-subpages (etc, etc) all connect to the home page, for a quick jump back.
+  E) I think that a mix of hierarchical and webbed is what I'm going to use. I'm going to have a home page, pages branching off from that, and pages branching off of the subpages. I'm also probably going to make all of the subpages and sub-subpages and sub-sub-subpages (etc, etc) all connect to the home page, for a quick jump back. I might also add a list of where you've been on the side to help with navigation.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Case Study 4
+
+  A) 
+  
+  B) 
+  
+  C) Done on a piece of paper
+  
+  D) 
+  
+  E) 
+  
+  F) 
+  
+  G) 
+  
+  H) 
