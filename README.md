@@ -109,13 +109,13 @@ And again, we would have subpages, branching from those "main" pages.
 
 Case Study 4
 
-  A) 
+  A) I did this separately. I took like 19 pages of notes on the chapters and have gone through it multiple times.
   
   B) 
   
-  C) Done on a piece of paper
+  C) 
   
-  D) 
+  D) I've been messing around with this site called color hunter, and this other color wheel site, and I have I few that I like. I'm probably going to go with either a dark red/gray one, a black, white, and grey theme, or I was thinking having a grey and white one lined with dark red or a kind of faded cerulean. 
   
   E) 
   
@@ -123,4 +123,3 @@ Case Study 4
   
   G) 
   
-  H) 
